@@ -1,0 +1,30 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local testing artifacts
+coverage/
+dist/
+build/
+
+# OS generated metadata
+.directory

@@ -1,0 +1,26 @@
+Copyright (c) 2026 Joner Dery
+
+All rights reserved.
+
+This repository contains architecture documentation, design materials,
+and showcase content related to the AireenShop AI Commerce Platform.
+
+The materials in this repository are provided for demonstration and
+portfolio purposes only.
+
+No permission is granted to:
+
+- Copy, modify, distribute, or reproduce this work
+- Use the architecture, documentation, designs, or materials for
+  commercial purposes
+- Create derivative systems based on this work
+
+without prior written permission from the copyright holder.
+
+The production source code, business logic, customer data, and
+client-specific materials are not included in this repository and
+remain private.
+
+AireenShop was developed as a real-world client project.
+This repository exists to showcase engineering decisions,
+architecture principles, and technical concepts behind the platform.
