@@ -68,26 +68,28 @@ This repository focuses on the architecture, engineering decisions, and technica
 
 Experience the running AireenShop AI commerce ecosystem:
 
-🔗 https://your-demo-url.com
+🔗 http://34.10.208.82/demo/
 
-## Demo Customer Access
+The demo gateway initializes the AI shopping assistant (Tindera / Ate Aireen), loads a dedicated demo customer session, and redirects visitors into the live storefront experience.
 
-For convenience, a demo customer account is available so visitors can explore the platform without creating a new account.
+## Demo Environment
 
-This account has standard customer permissions only and cannot access:
+The showcase environment provides a pre-authenticated customer experience so visitors can explore AireenShop without creating an account.
+
+The demo account has standard customer permissions only and cannot access:
 
 - Administrative features
 - CMS tools
 - Business management functions
 
-```
-Username:
-tmpuser
+The live showcase demonstrates:
 
-Password:
-@Test110918
-```
-
+- Next.js storefront experience
+- Django commerce backend
+- FastAPI AI orchestration
+- Tindera AI assistant integration
+- Authenticated customer journey
+  
 Explore:
 
 - 🤖 Ate Aireen Digital Tindera
