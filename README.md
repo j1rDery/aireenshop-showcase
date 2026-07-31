@@ -529,35 +529,60 @@ The goal:
 
 Future expansion includes:
 
-## J1R CMS AI Assistant
+### J1R CMS AI Assistant
 
-Capabilities:
+Extending AI capabilities within the administration platform:
 
+**Capabilities:**
 - SEO assistance
 - Product description generation
 - Media analysis
 - Business insights
+- Content optimization
+- Administrative workflow automation
 
 ---
 
-## Rider App
+### Rider App
 
 Extending the ecosystem into delivery operations:
 
+**Capabilities:**
 - Order fulfillment
-- Rider workflow
+- Rider workflow management
 - Delivery tracking
+- Status synchronization
+- Route and assignment management
 
 ---
 
-## Infrastructure Improvements
+### Infrastructure Improvements
 
-Planned:
+Improving deployment reliability, scalability, and operational efficiency:
 
+**Planned:**
+- Docker containerization
+- GitHub Actions CI/CD pipeline
+- Automated build and deployment workflows
 - Redis caching
 - Celery background processing
 - CDN integration
 - Search optimization
+- Environment-based configuration management
+- Production monitoring and logging
+
+---
+
+### Platform Evolution
+
+Long-term enhancements based on business growth and operational requirements:
+
+**Future Considerations:**
+- Multi-tenant architecture
+- Advanced analytics and reporting
+- AI-assisted business intelligence
+- Horizontal scaling strategies
+- High-availability deployment architecture
 
 ---
 
