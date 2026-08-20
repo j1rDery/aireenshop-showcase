@@ -639,4 +639,7 @@ Detailed architecture and engineering documents:
 7. [AI Safety and Guardrails](docs/07-ai-safety-and-guardrails.md)
 
 
-![Visitor Count](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase)
+<br>
+<p align="center">
+  <img src="https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase&label=Showcase%20Views" alt="Showcase Views">
+</p>
