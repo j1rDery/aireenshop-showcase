@@ -73,8 +73,7 @@ Experience the running AireenShop AI commerce ecosystem:
 Bootstraps the Tindera AI assistant session and provisions a sandbox customer profile.
 
 > [!NOTE]
-> **Test Credentials:**
-> username: `demo` / passwd: `demo`
+> **Test Credentials:** username: `demo` / passwd: `demo`
 
 ## Demo Environment
 
