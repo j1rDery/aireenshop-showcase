@@ -640,4 +640,4 @@ Detailed architecture and engineering documents:
 
 
 ---
-![Visitor Count](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase)
+![Visitor Count](https://komarev.com/ghpvc/?username=j1rDery&repo=aireenshop-showcase&color=brightgreen)](https://github.com/j1rDery/aireenShop-showcase)
