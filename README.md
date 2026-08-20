@@ -638,6 +638,6 @@ Detailed architecture and engineering documents:
 6. [Deployment Strategy](docs/06-deployment-strategy.md)
 7. [AI Safety and Guardrails](docs/07-ai-safety-and-guardrails.md)
 
-<br>
+
 ---
 ![Visitor Count](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase)
