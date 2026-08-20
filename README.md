@@ -68,9 +68,11 @@ This repository focuses on the architecture, engineering decisions, and technica
 
 Experience the running AireenShop AI commerce ecosystem:
 
-🔗 http://34.10.208.82/demo/
+🔗 http://34.10.208.82
 
-The demo gateway initializes the AI shopping assistant (Tindera / Ate Aireen), loads a dedicated demo customer session, and redirects visitors into the live storefront experience.
+Bootstraps the Tindera AI assistant session and provisions a sandbox customer profile.
+
+Test Credentials: username: demo / passwd: demo
 
 ## Demo Environment
 
