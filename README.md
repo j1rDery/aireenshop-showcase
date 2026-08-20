@@ -640,6 +640,6 @@ Detailed architecture and engineering documents:
 
 
 <br>
-<p align="center">
-  <img src="https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase&label=Showcase%20Views" alt="Showcase Views">
-</p>
+<br>
+<br>
+![Showcase Views](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase&label=Showcase%20Views)
