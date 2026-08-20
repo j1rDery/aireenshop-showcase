@@ -642,4 +642,4 @@ Detailed architecture and engineering documents:
 <br>
 <br>
 <br>
-![Showcase Views](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase&label=Showcase%20Views)
+![Visitor Count](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase)
