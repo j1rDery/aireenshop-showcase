@@ -71,8 +71,9 @@ Experience the running AireenShop AI commerce ecosystem:
 🔗 http://34.10.208.82
 
 Bootstraps the Tindera AI assistant session and provisions a sandbox customer profile.
-[!NOTE]
-Test Credentials: username: `demo` / passwd: `demo`
+
+> [!NOTE]
+> **Test Credentials:** username: `demo` / passwd: `demo`
 
 ## Demo Environment
 
